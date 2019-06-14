@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=STM32F302VC_EVM.PrjPcb
+[Project2]
+ProjectPath=..\..\..\Desktop\MB1136C_schematic_layout\MB1136.PrjPCB
